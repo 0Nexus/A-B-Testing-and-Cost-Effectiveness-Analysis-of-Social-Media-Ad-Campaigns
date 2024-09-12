@@ -33,7 +33,7 @@ Hypothesis testing was conducted using a two-sample t-test to evaluate whether t
 
 ### 2. Cost-Effectiveness Analysis
 The cost per conversion for each group was calculated as:
-Cost per Conversion = Total Spend / Approved Conversions
+$Cost\ per\ Conversion = \frac{Total\ Spend}{Approved\ Conversions}$
 This helped in identifying which demographic groups provided the best return on investment for the ad spend.
 
 ---
